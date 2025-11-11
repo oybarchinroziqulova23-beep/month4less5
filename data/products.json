@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 14",
+    "category": "smartphone",
+    "price": 999,
+    "stock": 25,
+    "description": "Apple kompaniyasining yangi flagmani, A15 Bionic chip bilan."
+  },
+  {
+    "id": 2,
+    "name": "Sony WH-1000X",
+    "category": "smartphone",
+    "price": 400,
+    "stock": 30,
+    "description": "120Hz AMOLED displeyli kuchli Android telefon."
+  },
+  {
+    "id": 3,
+    "name": "Xiaomi Redmi Note 13",
+    "category": "smartphone",
+    "price": 350,
+    "stock": 40,
+    "description": "Arzon va qulay narxdagi sifatli Android telefon."
+  },
+  {
+    "id": 4,
+    "name": "MacBook Air M2",
+    "category": "laptop",
+    "price": 1250,
+    "stock": 15,
+    "description": "Eng yengil va kuchli noutbuk, Apple M2 chip bilan."
+  },
+  {
+    "id": 6,
+    "name": "Sony WH-1000X",
+    "category": "headphones",
+    "price": 400,
+    "stock": 50,
+    "description": "Eng yaxshi shovqinni bekor qiluvchi quloqchinlardan biri."
+  },
+  {
+    "id": 7,
+    "name": "Logitech MX Master 3S",
+    "category": "accessory",
+    "price": 120,
+    "stock": 70,
+    "description": "Ish va dasturlash uchun juda qulay simsiz sichqoncha."
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch Series 9",
+    "category": "smartwatch",
+    "price": 499,
+    "stock": 20,
+    "description": "Sog'liqni kuzatuvchi aqlli soat, yangi S9 chip bilan."
+  },
+  {
+    "id": 9,
+    "name": "Asus ROG Strix G16",
+    "category": "laptop",
+    "price": 1450,
+    "stock": 10,
+    "description": "O'yinlar uchun mo'ljallangan yuqori unumli noutbuk."
+  },
+  {
+    "id": 10,
+    "name": "Canon R10",
+    "category": "camera",
+    "price": 50,
+    "stock": 12,
+    "description": "Professional suratga olish uchun mos kamera."
+  },
+  {
+    "id": 12,
+    "name": "Canon R10",
+    "category": "dasgoh",
+    "price": 50,
+    "stock": 12,
+    "description": "Professional suratga olish uchun mos kamera."
+  },
+  {
+    "id": 13,
+    "name": "Canon wR6",
+    "category": "camera",
+    "price": 750,
+    "stock": 10,
+    "description": "Professional."
+  }
+]
