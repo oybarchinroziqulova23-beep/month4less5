@@ -1,11 +1,10 @@
 import {createServer} from "http";
-import { readFile,writeFile } from "fs/promises";
-import { basename, join } from "path";
+import { readFile } from "fs/promises";
+import { join } from "path";
 import { cwd } from "process";
-import { json } from "stream/consumers";
 import { writeFile } from "fs";
 
-const productPath = join(process,cwd(),"data/products.json");
+const productPath = join(process.cwd(),"data/products.json");
 
 async function getProducts() {
     try{
